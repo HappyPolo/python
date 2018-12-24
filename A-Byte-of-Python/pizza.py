@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 pizzas=['a','b','c','d']
 for pizza in pizzas:
 	print(pizza)
